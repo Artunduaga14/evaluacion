@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artun\\OneDrive\\Escritorio\\evaluacion\\backen\\Estudiante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77B406D9-4A55-4149-9652-87981E81A0B8}|Entity\\Entity.csproj|c:\\users\\artun\\onedrive\\escritorio\\evaluacion\\backen\\estudiante\\entity\\contexts\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B406D9-4A55-4149-9652-87981E81A0B8}|Entity\\Entity.csproj|solutionrelative:entity\\contexts\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80C64A0-A97B-47D0-9A58-4EACF5E0A085}|Web\\Web.csproj|c:\\users\\artun\\onedrive\\escritorio\\evaluacion\\backen\\estudiante\\web\\controllers\\cursocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80C64A0-A97B-47D0-9A58-4EACF5E0A085}|Web\\Web.csproj|solutionrelative:web\\controllers\\cursocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80C64A0-A97B-47D0-9A58-4EACF5E0A085}|Web\\Web.csproj|c:\\users\\artun\\onedrive\\escritorio\\evaluacion\\backen\\estudiante\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80C64A0-A97B-47D0-9A58-4EACF5E0A085}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80C64A0-A97B-47D0-9A58-4EACF5E0A085}|Web\\Web.csproj|c:\\users\\artun\\onedrive\\escritorio\\evaluacion\\backen\\estudiante\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E80C64A0-A97B-47D0-9A58-4EACF5E0A085}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80C64A0-A97B-47D0-9A58-4EACF5E0A085}|Web\\Web.csproj|c:\\users\\artun\\onedrive\\escritorio\\evaluacion\\backen\\estudiante\\web\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80C64A0-A97B-47D0-9A58-4EACF5E0A085}|Web\\Web.csproj|solutionrelative:web\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CursoControllers.cs",
+              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Escritorio\\evaluacion\\backen\\Estudiante\\Web\\Controllers\\CursoControllers.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\CursoControllers.cs",
+              "ToolTip": "C:\\Users\\artun\\OneDrive\\Escritorio\\evaluacion\\backen\\Estudiante\\Web\\Controllers\\CursoControllers.cs",
+              "RelativeToolTip": "Web\\Controllers\\CursoControllers.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:07:40.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Escritorio\\evaluacion\\backen\\Estudiante\\Entity\\Contexts\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Contexts\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\artun\\OneDrive\\Escritorio\\evaluacion\\backen\\Estudiante\\Entity\\Contexts\\AplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\Contexts\\AplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:00:38.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Escritorio\\evaluacion\\backen\\Estudiante\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\artun\\OneDrive\\Escritorio\\evaluacion\\backen\\Estudiante\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:59:26.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Escritorio\\evaluacion\\backen\\Estudiante\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\artun\\OneDrive\\Escritorio\\evaluacion\\backen\\Estudiante\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T22:33:00.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatriculaController.cs",
+              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Escritorio\\evaluacion\\backen\\Estudiante\\Web\\Controllers\\MatriculaController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\MatriculaController.cs",
+              "ToolTip": "C:\\Users\\artun\\OneDrive\\Escritorio\\evaluacion\\backen\\Estudiante\\Web\\Controllers\\MatriculaController.cs",
+              "RelativeToolTip": "Web\\Controllers\\MatriculaController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:23:15.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
